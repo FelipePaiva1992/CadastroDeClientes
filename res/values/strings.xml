@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Cadastro De Cliente</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    
+    <string name="lbname">Nome:</string>
+    <string name="lbmail">Email:</string>
+    <string name="lbcity">Cidade:</string>
+    <string name="lbok">Cadastrar:</string>
+    
+    <string name="btcadastro">Cadastrar Cliente</string>
+    <string name="btlistar">Listar Cliente</string>
+
+</resources>
